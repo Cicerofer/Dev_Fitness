@@ -1,0 +1,16 @@
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.exe
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.deps.json
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.runtimeconfig.json
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.runtimeconfig.dev.json
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.dll
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\bin\Debug\net5.0\ref\DevFitness.ConsoleApp.dll
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.pdb
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.csproj.AssemblyReference.cache
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.AssemblyInfo.cs
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.dll
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\ref\DevFitness.ConsoleApp.dll
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.pdb
+C:\Projeto_C#\dev-fitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.genruntimeconfig.cache
